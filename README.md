@@ -1,10 +1,15 @@
 # HACKING-THE-HUMAN-VASCULATURE-
 The intricate web of cellular interactions, spatial organization, and specialization within the human body, boasting a staggering 37 trillion cells, propels the motivation for this project. Reseachers grapple with understanding these complex cellular functions and relationships through the Vasculature Common Coordinate Framework (VCCF). This framework utilizes the blood vasculature as a primary navigation system, employing capillary structures as unique addresses to map cellular locations across all scale levels.
  
- 
+ ![image](https://github.com/kimo944/HACKING-THE-HUMAN-VASCULATURE-/assets/134097491/f31154da-494b-4401-b6ee-e766d5aa5f9e)
+
 In light of gaps in researchers' knowledge about the vasculature that translate into gaps within the VCCF, the motivation to introduce data science into this framework is clear. The potential to automatically segment vasculature arrangements, harnessing real-world tissue data, becomes a crucial pursuit to bridge existing gaps and offer a comprehensive understanding of the vasculature throughout the entire human body.
 The current manual annotation process, conducted by human expert annotators, is painstakingly slow, with each new dataset demanding over six months for completion. Machine learning approaches face challenges in adapting to new datasets due to the inherent variability in human anatomy and the evolving image quality associated with HiP-CT technology.
 The overarching motivation is amplified by the goal of the competition hosted by the Common Fund’s Cellular Senescence Network (SenNet) Program. This program aims to systematically identify and characterize differences in senescent cells across various states of human health, the entire lifespan, and diverse parts of the body. SenNet not only provides publicly accessible atlases of senescent cells but also pioneers innovative tools building upon advancements in single-cell analysis.
+
+
+![image](https://github.com/kimo944/HACKING-THE-HUMAN-VASCULATURE-/assets/134097491/b13d62ad-81aa-410d-b035-8c36b80d9310)
+
  
 Figure [2]- Human Reference Atlas Charts Human Body at Single Cell Level
 
@@ -14,6 +19,7 @@ In essence, this project aspires to advance our understanding of how vasculature
 
 
 
+![image](https://github.com/kimo944/HACKING-THE-HUMAN-VASCULATURE-/assets/134097491/b4e6e691-63d9-4a59-a8bb-c8a348701fc0)
 
 
 
@@ -51,6 +57,7 @@ The urgency to address these challenges is underscored by the objectives of the 
 In response to these challenges, there is a critical need to integrate data science into the VCCF framework, automating the segmentation of vasculature arrangements in HiP-CT data. This automation aims to bridge existing gaps, streamline the annotation process, and contribute to the development of a more comprehensive Vascular Common Coordinate Framework (VCCF) and Human Reference Atlas (HRA). 
 
 
+![image](https://github.com/kimo944/HACKING-THE-HUMAN-VASCULATURE-/assets/134097491/bb786a56-ff5b-460e-bbac-480d2c0a322e)
 
 
 1.8	PROBLEM REQUIREMENTS
