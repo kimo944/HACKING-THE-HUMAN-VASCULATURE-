@@ -1,4 +1,4 @@
-# HACKING-THE-HUMAN-VASCULATURE-
+# HACKING-THE-HUMAN-VASCULATURE
 The intricate web of cellular interactions, spatial organization, and specialization within the human body, boasting a staggering 37 trillion cells, propels the motivation for this project. Reseachers grapple with understanding these complex cellular functions and relationships through the Vasculature Common Coordinate Framework (VCCF). This framework utilizes the blood vasculature as a primary navigation system, employing capillary structures as unique addresses to map cellular locations across all scale levels.
  
  ![image](https://github.com/kimo944/HACKING-THE-HUMAN-VASCULATURE-/assets/134097491/f31154da-494b-4401-b6ee-e766d5aa5f9e)
